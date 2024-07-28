@@ -2,6 +2,9 @@
 .eg1{
 	display:flex;
 }
+img {
+  object-fit: cover;
+}
 .hero{
 	padding:5px;
 	margin:5px;
